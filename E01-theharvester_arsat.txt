@@ -1,0 +1,581 @@
+theHarvester -d arsat.com.ar -b all | tee theharvester_arsat.log
+Read proxies.yaml from /home/shur3/.theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.8.2                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: arsat.com.ar 
+
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for bevigil. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for bufferoverun. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Censys ID and/or Secret. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for criminalip. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Dehashed. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for DNSDumpster. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for fullhunt. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Error initializing SearchGithubCode: 
+[!] Missing API key for Github. 
+
+[!] Missing API key for Github. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Hunter. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for hunterhow. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Intelx. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for netlas. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for onyphe. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for PentestTools. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for ProjectDiscovery. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for RocketReach. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Securitytrail. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Shodan. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Tomba Key and/or Secret. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for Venacus. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for virustotal. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for whoisxml. 
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+
+[!] Missing API key for zoomeye. 
+Error in BuiltWith search: 200, message='Attempt to decode JSON with unexpected mimetype: text/json; charset=utf-8', url='https://api.builtwith.com/v21/api.json?KEY=None&LOOKUP=arsat.com.ar'
+[*] Searching Builtwith. 
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+	Searching 0 results.
+[*] Searching Bing. 
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+An exception has occurred: Server disconnected
+[*] Searching Baidu. 
+	Searching results.
+[*] Searching Certspotter. 
+[*] Searching CRTsh. 
+[*] Searching Duckduckgo. 
+Error in HaveIBeenPwned search: Cannot serialize non-str key None
+[*] Searching Haveibeenpwned. 
+[*] Searching Leaklookup. 
+[*] Searching Hackertarget. 
+[!] Missing API key for SecurityScorecard.
+Error in SecurityScorecard search: 
+[!] Missing API key for SecurityScorecard. 
+[*] Searching Securityscorecard. 
+[*] Searching Rapiddns. 
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+Sitedossier module has triggered a captcha on first iteration, no results can be found.
+Change IPs, manually solve the captcha, or wait before rerunning Sitedossier module
+[*] Searching Sitedossier. 
+[*] Searching Subdomainfinderc99. 
+An exception has occurred: 500, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.threatminer.org/v2/domain.php?q=arsat.com.ar&rt=5'
+An exception has occurred: 522, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.subdomain.center/?domain=arsat.com.ar'
+[*] Searching Subdomaincenter. 
+[*] Searching Urlscan. 
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+[*] Searching Yahoo. 
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+An exception has occurred: 400, message:
+  Can not decode content-encoding: br
+[*] Searching Brave. 
+
+[*] ASNS found: 3
+--------------------
+AS13335
+AS400940
+AS52361
+
+[*] Interesting Urls found: 33
+--------------------
+http://arsat.com.ar/
+http://relay.arsat.com.ar/
+http://s3.arsat.com.ar/
+http://test-lambda.arsat.com.ar/
+https://alertmanager.dev.arsat.com.ar/
+https://arsat.com.ar/
+https://authelia.dev.arsat.com.ar/
+https://cloud.arsat.com.ar/client/
+https://clustercontrol.dev.arsat.com.ar/clustercontrol/users/login
+https://codimd.dev.arsat.com.ar/
+https://comedor-sso.devops.arsat.com.ar/
+https://datos.arsat.com.ar/dataset/cobertura-satelite-arsat-1
+https://datos.devops.arsat.com.ar/
+https://elastic.devops.arsat.com.ar/login?next=%2F
+https://empleados.arsat.com.ar/
+https://ide-enacom.arsat.com.ar/
+https://login-mattermost-registry.dev.arsat.com.ar/
+https://login-mattermost.arsat.com.ar/users/sign_in
+https://login-mattermost.dev.arsat.com.ar/
+https://login-mattermost.dev.arsat.com.ar/users/sign_in
+https://mica.dev.arsat.com.ar/
+https://next.qa.arsat.com.ar/index.php/login
+https://portal.vpn.arsat.com.ar/Login/Login
+https://s3.arsat.com.ar/cdn-bo-001/pdf-del-dia/primera.pdf
+https://seg-act.dev.arsat.com.ar/
+https://sentry2.dev.arsat.com.ar/auth/login/arsat/
+https://sso-back.devops.arsat.com.ar/login
+https://sso-comedor.dev.arsat.com.ar/
+https://sso-comedor.dev.arsat.com.ar/login
+https://uberallapi.arsat.com.ar/swagger/ui/index
+https://uberallstage.arsat.com.ar/
+https://wifi.arsat.com.ar/
+https://www.arsat.com.ar/
+
+[*] No LinkedIn users found.
+
+
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 20
+-------------------
+181.209.30.151
+181.209.30.200
+181.209.30.65
+181.209.31.124
+181.209.63.29
+186.33.208.25
+186.33.211.227
+186.33.216.64
+186.33.221.134
+186.33.227.216
+186.33.228.236
+186.33.234.101
+186.33.234.104
+186.33.234.119
+186.33.234.37
+186.33.234.5
+2606:4700:3032::6815:3ee8
+2606:4700:3034::6815:19cb
+2606:4700:3035::ac43:8bed
+66.33.22.2
+
+[*] Emails found: 3
+----------------------
+reclamos.interferencias@arsat.com.ar
+soportecac@arsat.com.ar
+cmartorella@edge-security.com
+
+[*] No people found.
+
+[*] Hosts found: 284
+---------------------
+*.arsat.com.ar
+account-sucursalvirtual.arsat.com.ar
+account-sucursalvirtual.arsat.com.ar:186.33.234.120
+account.devops.arsat.com.ar
+adifse.ide-dev.arsat.com.ar
+alertmanager.dev.arsat.com.ar
+alfresco.devops.arsat.com.ar
+api.datos.arsat.com.ar:35.238.197.24
+api.datos.arsat.com.ar:cloud.junar.com
+arca2.arsat.com.ar
+arca2.arsat.com.ar:186.33.234.86
+arsat.com.ar:relay.arsat.com.ar
+arsat.com.ar:smtp.arsat.com.ar
+arsat.ide-qa.arsat.com.ar
+asim.dev.arsat.com.ar:181.209.30.65
+auth-validator.dev.arsat.com.ar:181.209.30.65
+auth.dev.arsat.com.ar:181.209.30.65
+authelia.dev.arsat.com.ar
+authelia.dev.arsat.com.ar:181.209.30.65
+autodiscover.arsat.com.ar
+autodiscover.arsat.com.ar:186.33.234.11
+autodiscover.arsat.com.ar:64:ff9b::ba21:ea0b
+av.arsat.com.ar:186.33.234.21
+back.devops.arsat.com.ar
+bbb-01.arsat.com.ar:181.209.30.117
+bbb-02.arsat.com.ar:181.209.30.118
+bbb.arsat.com.ar
+bbb.arsat.com.ar:181.209.30.121
+bbb0.dev.arsat.com.ar
+bbb0.dev.arsat.com.ar:181.209.30.49
+bbb1.bbb.arsat.com.ar:186.33.211.179
+bbb1.dev.arsat.com.ar
+bbb1.dev.arsat.com.ar:181.209.30.47
+bbb2.dev.arsat.com.ar
+bbb2.dev.arsat.com.ar:181.209.30.48
+blackbox.dev.arsat.com.ar:181.209.30.65
+bot.dev.arsat.com.ar
+bot.dev.arsat.com.ar:181.209.30.65
+bot.qa.arsat.com.ar
+capacitaciones.arsat.com.ar:186.33.234.115
+casasdelbicentenario.dev.arsat.com.ar
+casasdelbicentenario.dev.arsat.com.ar:181.209.30.65
+ceatsa.dev.arsat.com.ar
+ceatsa.dev.arsat.com.ar:181.209.30.102
+ceatsa.dev.arsat.com.ar:64:ff9b::b5d1:1e66
+ceatsa.devops.arsat.com.ar
+ceatsa.qa.arsat.com.ar
+cinear-tools.qa.arsat.com.ar
+cinear.dev.arsat.com.ar:181.209.30.65
+cloud.arsat.com.ar
+cloud.arsat.com.ar:186.33.228.236
+clustercontrol.dev.arsat.com.ar
+clustercontrol.dev.arsat.com.ar:181.209.30.65
+codimd.dev.arsat.com.ar
+collab.arsat.com.ar:186.33.234.17
+comedor-sso.devops.arsat.com.ar
+comedor.dev.arsat.com.ar
+comedor.dev.arsat.com.ar:181.209.30.65
+conference-dev.arsat.com.ar:181.209.30.77
+conference-ia-dev.arsat.com.ar:181.209.30.217
+conference-ia-prod-zero.arsat.com.ar:181.209.31.141
+conference-ia-prod.arsat.com.ar:181.209.30.89
+conference-ia-qa.arsat.com.ar:181.209.30.219
+conference-ia-zero.dev.arsat.com.ar
+conference-ia-zero.dev.arsat.com.ar:181.209.30.65
+conference-ia.dev.arsat.com.ar
+conference-ia.dev.arsat.com.ar:181.209.30.65
+conference-ia.qa.arsat.com.ar
+conference.arsat.com.ar:181.209.30.126
+conference.dev.arsat.com.ar
+conference.dev.arsat.com.ar:181.209.30.65
+conference.devops.arsat.com.ar
+conference.qa.arsat.com.ar
+correoargentino.ide-dev.arsat.com.ar
+dashboard.dev.arsat.com.ar:181.209.30.65
+dashboard.dev.arsat.com.ar:64:ff9b::b5d1:1e41
+database.dev.arsat.com.ar:181.209.30.65
+database.qa.arsat.com.ar:181.209.30.151
+dataroom.devops.arsat.com.ar
+datos.arsat.com.ar
+datos.arsat.com.ar:181.209.30.126
+datos.dev.arsat.com.ar
+datos.dev.arsat.com.ar:181.209.30.65
+datos.devops.arsat.com.ar
+datos.qa.arsat.com.ar
+demo-ide.arsat.com.ar:186.33.232.155
+eaas.dev.arsat.com.ar:181.209.30.65
+eaas.qa.arsat.com.ar
+elastic.devops.arsat.com.ar
+elearning.dev.arsat.com.ar:181.209.30.65
+elearning.qa.arsat.com.ar:181.209.30.151
+empleados.arsat.com.ar
+empleados.arsat.com.ar:186.33.216.64
+enacom.ide-dev.arsat.com.ar
+error.dev.arsat.com.ar:181.209.30.65
+exporter.dev.arsat.com.ar:181.209.30.65
+facsir.dev.arsat.com.ar
+facsir.dev.arsat.com.ar:181.209.30.65
+facsir.qa.arsat.com.ar
+flower.dev.arsat.com.ar:181.209.30.65
+fluentd.dev.arsat.com.ar:181.209.30.65
+ftp.arsat.com.ar:186.33.234.10
+ftp.arsat.com.ar:64:ff9b::ba21:ea0a
+gitlab-reg.dev.arsat.com.ar:181.209.30.65
+gitlab-registry.dev.arsat.com.ar
+gitlab-registry.dev.arsat.com.ar:181.209.30.65
+gitlab.arsat.com.ar:181.209.30.126
+gitlab.dev.arsat.com.ar
+gitlab.dev.arsat.com.ar:181.209.30.65
+glpi.devops.arsat.com.ar
+grafana.dev.arsat.com.ar
+grafana.dev.arsat.com.ar:181.209.30.65
+grafana.devops.arsat.com.ar
+grafana.qa.arsat.com.ar
+graphana.dev.arsat.com.ar:181.209.30.65
+gric.dev.arsat.com.ar
+gric.dev.arsat.com.ar:181.209.30.65
+haproxy-s3-test.test.dev.arsat.com.ar:181.209.30.65
+haproxy-s3.dev.arsat.com.ar:181.209.30.65
+haproxy-s3.dev.arsat.com.ar:64:ff9b::b5d1:1e41
+haproxy-s3.test.dev.arsat.com.ar:181.209.30.65
+haproxy-s3.test.qa.arsat.com.ar:181.209.30.151
+haproxy-stats.devops.arsat.com.ar
+hedgedoc.devops.arsat.com.ar
+ide-enacom.arsat.com.ar
+ide-enacom.dev.arsat.com.ar
+ide-santiago.dev.arsat.com.ar
+ide2.arsat.com.ar
+ide2.dev.arsat.com.ar
+ide2.devops.arsat.com.ar
+ingresos.arsat.com.ar
+jumpserver.devops.arsat.com.ar
+login-mattermost-registry.dev.arsat.com.ar
+login-mattermost.arsat.com.ar
+login-mattermost.dev.arsat.com.ar
+mapas-k8s.dev.arsat.com.ar
+mapas.dev.arsat.com.ar
+mapas.dev.arsat.com.ar:181.209.30.65
+mapas.dev.arsat.com.ar:64:ff9b::b5d1:1e41
+mapas.devops.arsat.com.ar
+mapas2.dev.arsat.com.ar
+mapatda.arsat.com.ar
+mapatda.arsat.com.ar:181.209.30.87
+mapatda.dev.arsat.com.ar
+mapatda.qa.arsat.com.ar
+matrix.dev.arsat.com.ar:181.209.30.65
+mattermost.dev.arsat.com.ar
+mattermost.dev.arsat.com.ar:181.209.30.65
+mattermost.dev.arsat.com.ar:64:ff9b::b5d1:1e41
+mattermost.qa.arsat.com.ar
+md.dev.arsat.com.ar
+md.qa.arsat.com.ar
+mica-design.dev.arsat.com.ar:181.209.30.65
+mica.dev.arsat.com.ar
+mica.dev.arsat.com.ar:181.209.30.65
+mica.devops.arsat.com.ar
+mica.qa.arsat.com.ar
+mica.qa.arsat.com.ar:181.209.30.151
+mongo-cinear.dev.arsat.com.ar:181.209.30.65
+mongo.dev.arsat.com.ar:181.209.30.65
+mongo.dev.arsat.com.ar:64:ff9b::b5d1:1e41
+moodle.dev.arsat.com.ar
+moodle.devops.arsat.com.ar
+moodle.qa.arsat.com.ar
+moodle.qa.arsat.com.ar:181.209.30.151
+morral.arsat.com.ar:186.33.233.57
+next-collabora.dev.arsat.com.ar
+next-collabora.devops.arsat.com.ar
+next-collabora.qa.arsat.com.ar
+next.dev.arsat.com.ar
+next.devops.arsat.com.ar
+next.qa.arsat.com.ar
+ns2.arsat.com.ar:186.33.234.7
+ns5.arsat.com.ar:186.33.234.15
+nube.dev.arsat.com.ar
+nube.devops.arsat.com.ar
+nube.qa.arsat.com.ar
+opencats.dev.arsat.com.ar:181.209.30.65
+orbis.dev.arsat.com.ar
+orbis.qa.arsat.com.ar
+owa.arsat.com.ar
+player.dev.arsat.com.ar:181.209.30.65
+portainer.dev.arsat.com.ar:181.209.30.65
+portal-backoffice.dev.arsat.com.ar
+portal-backoffice.qa.arsat.com.ar
+portal-k8s.dev.arsat.com.ar
+portal-lab-backoffice.dev.arsat.com.ar
+portal-lab.dev.arsat.com.ar
+portal.dev.arsat.com.ar
+portal.qa.arsat.com.ar
+portal.vpn.arsat.com.ar
+prometheus.dev.arsat.com.ar
+prometheus.dev.arsat.com.ar:181.209.30.65
+prometheus.devops.arsat.com.ar
+prometheus.qa.arsat.com.ar
+proyectos.dev.arsat.com.ar
+proyectos.devops.arsat.com.ar
+proyectos.qa.arsat.com.ar
+public.dev.arsat.com.ar:181.209.30.65
+rating.qa.arsat.com.ar
+redcasasbicentenario.qa.arsat.com.ar
+redmine.arsat.com.ar:181.209.30.126
+redmine.dev.arsat.com.ar
+redmine.dev.arsat.com.ar:181.209.30.65
+redmine.pmodc.arsat.com.ar:186.33.211.93
+redmine.qa.arsat.com.ar:181.209.30.151
+redminedc.dev.arsat.com.ar:181.209.30.65
+registry.dev.arsat.com.ar:181.209.30.65
+relay.arsat.com.ar
+relay.arsat.com.ar:186.33.234.8
+relay.arsat.com.ar:64:ff9b::ba21:ea08
+retiro-comedor.dev.arsat.com.ar
+riot.dev.arsat.com.ar:181.209.30.65
+rocket.dev.arsat.com.ar
+s3.arsat.com.ar
+s3.arsat.com.ar:186.33.227.214
+s3.arsat.com.ar:186.33.227.215
+s3.arsat.com.ar:186.33.227.216
+s3.arsat.com.ar:186.33.227.217
+seg-act-k8s.dev.arsat.com.ar
+seg-act.dev.arsat.com.ar
+seg-act.qa.arsat.com.ar
+sentry.dev.arsat.com.ar
+sentry.dev.arsat.com.ar:181.209.30.65
+sentry.qa.arsat.com.ar
+sentry.qa.arsat.com.ar:181.209.30.151
+sentry2.dev.arsat.com.ar
+sg1.dev.arsat.com.ar
+sg1.dev.arsat.com.ar:181.209.30.102
+sg1.dev.arsat.com.ar:64:ff9b::b5d1:1e66
+sg1.devops.arsat.com.ar
+sg1.qa.arsat.com.ar
+sgi.dev.arsat.com.ar
+sgi.qa.arsat.com.ar
+sip.arsat.com.ar:186.33.234.20
+smtp.arsat.com.ar:186.33.222.9
+sofia.dev.arsat.com.ar
+sofia.qa.arsat.com.ar
+sq.devops.arsat.com.ar
+sq.qa.arsat.com.ar
+srv-dmz-ets.arsat.com.ar:186.33.234.9
+sso-back.devops.arsat.com.ar
+sso-comedor.dev.arsat.com.ar
+sso-dataroom.devops.arsat.com.ar
+sso-sucursalvirtual.arsat.com.ar
+sso.devops.arsat.com.ar
+swarm.arsat.com.ar:186.33.216.75
+swarm.arsat.com.ar:64:ff9b::ba21:d84b
+tdasatelital.arsat.com.ar:186.33.235.105
+tdasatelital.arsat.com.ar:64:ff9b::ba21:eb69
+teampass.dev.arsat.com.ar
+teampass.qa.arsat.com.ar
+test-conference.arsat.com.ar:186.33.234.56
+test-lambda.arsat.com.ar
+testwebarsat.arsat.com.ar:186.33.234.105
+testwebarsat.arsat.com.ar:64:ff9b::ba21:ea69
+tools.dev.arsat.com.ar:181.209.30.65
+traefik-k8s.dev.arsat.com.ar
+traefik.dev.arsat.com.ar
+traefik.devops.arsat.com.ar
+traefik.qa.arsat.com.ar
+traefik.qa.arsat.com.ar:181.209.30.151
+transcoder.dev.arsat.com.ar:181.209.30.65
+uberallapi.arsat.com.ar
+uberallapi.arsat.com.ar:186.33.234.101
+uberallstage.arsat.com.ar
+uberallstage.arsat.com.ar:186.33.234.101
+udpupload.dev.arsat.com.ar:181.209.30.65
+validator.dev.arsat.com.ar:181.209.30.65
+velocidad.arsat.com.ar:181.209.70.254
+video.dev.arsat.com.ar
+video.qa.arsat.com.ar
+vpn.arsat.com.ar
+vpn.arsat.com.ar:186.33.234.5
+web-socket.dev.arsat.com.ar
+web.dev.arsat.com.ar
+web.devops.arsat.com.ar
+web.qa.arsat.com.ar
+webhookceres.dev.arsat.com.ar
+whoami.dev.arsat.com.ar:181.209.30.65
+wifi.arsat.com.ar
+wiki.devops.arsat.com.ar
+wordpress.devops.arsat.com.ar
+zulip.dev.arsat.com.ar
+
+[*] Starting API endpoint scanning with wordlist: /nix/store/ymdca2icamlrhgk3aafnakcn618770vp-theharvester-4.8.2/lib/python3.13/site-packages/theHarvester/data/wordlists/api_endpoints.txt
+
+[*] API Endpoints found: 0
+
+[*] Interesting endpoints (200, 201, 202): 0
+
+[*] Endpoints requiring authentication: 0
+
+[*] Detected API versions: 0
+
+[*] Rate limited endpoints: 0
+
+[*] HTTP methods used: 
+
+[*] HTTP status codes encountered: 
+
+[+] API scanning completed successfully.
+
+[*] Performing SecurityScorecard scan...
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+[!] Missing API key for SecurityScorecard.
+Error in SecurityScorecard search: 
+[!] Missing API key for SecurityScorecard. 
+An exception has occurred in SecurityScorecard scanning: 'SearchSecurityScorecard' object has no attribute 'get_ips'
+
+[*] Performing BuiltWith scan...
+Read api-keys.yaml from /home/shur3/.theHarvester/api-keys.yaml
+Error in BuiltWith search: 200, message='Attempt to decode JSON with unexpected mimetype: text/json; charset=utf-8', url='https://api.builtwith.com/v21/api.json?KEY=None&LOOKUP=arsat.com.ar'

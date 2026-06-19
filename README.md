@@ -1,10 +1,35 @@
-
-
 **CIBERDEFENSA (V.TUCS.3.25.1)**
 
 **Práctica Grupal N° 3**
 
 ## *“Realización de OSINT al ARSAT”*
+
+Hicimos este Repositorio entre Agustin Guida, Santiago Ronchini. Los archivos que encontrarán en el repositorio son los siguientes:
+### Evidencias
+
+1. E01-theharvester\_arsat.txt  
+2. E02-dnsrecon\_arsat.txt  
+3. E03-Shodan 186.33.208.25.png  
+4. E04-Redes Sociales.jpeg  
+5. E05-wappalyzer\_arsat-com.ar.csv  
+6. E06-primera-seccion\_04-01-2001\_suplemento.pdf  
+7. E07-exiftool\_pdf.txt  
+8. E08-datos-cobertura-banda-ku-arsat1-v2.csv
+
+### Informe Oficial
+1. TP3 - ARSAT.pdf
+
+### Referencias Online
+
+1. Fabaro, A. (2025, May 22). 19° Aniversario del ARSAT. [https://www.arsat.com.ar/19-aniversario-de-arsat/](https://www.arsat.com.ar/19-aniversario-de-arsat/)  
+2. Organigrama 2026 ARSAT. Arsat.com.ar. [https://datos.arsat.com.ar/dataset/2721b2d9-5319-452b-be68-d5e086fb7aba/resource/80da5926-461e-45ec-8a7f-388337655667/download/organigrama-02-2025.pdf](https://datos.arsat.com.ar/dataset/2721b2d9-5319-452b-be68-d5e086fb7aba/resource/80da5926-461e-45ec-8a7f-388337655667/download/organigrama-02-2025.pdf)  
+3. Nvd \- cve-2026-25077. (n.d.). Nist.gov. From [https://nvd.nist.gov/vuln/detail/CVE-2026-25077](https://nvd.nist.gov/vuln/detail/CVE-2026-25077)  
+4. Petrova, I. (2026, May 8). ShapeBlue security advisory: Security fixes in CloudStack 4.20.3.0 and 4.22.0.1. ShapeBlue; The CloudStack Company. [https://www.shapeblue.com/shapeblue-security-cloudstack-4-20-3-0-and-4-22-0-1/](https://www.shapeblue.com/shapeblue-security-cloudstack-4-20-3-0-and-4-22-0-1/)  
+5. Petrova, I. (2025, November 27). ShapeBlue security advisory for CVE-2025-59302 and CVE-2025-59454. ShapeBlue; The CloudStack Company. [https://www.shapeblue.com/shapeblue-security-advisory-for-cve-2025-59302-and-cve-2025-59454/](https://www.shapeblue.com/shapeblue-security-advisory-for-cve-2025-59302-and-cve-2025-59454/)  
+6. Bigozzi, R. (2026, June 14). Las claves del robo en el depósito de ARSAT que desató una ola de causas de corrupción, drogas y espionaje. Infobae. [https://www.infobae.com/judiciales/2026/06/14/las-claves-del-robo-en-el-deposito-de-arsat-que-desato-una-ola-de-causas-de-corrupcion-drogas-y-espionaje/](https://www.infobae.com/judiciales/2026/06/14/las-claves-del-robo-en-el-deposito-de-arsat-que-desato-una-ola-de-causas-de-corrupcion-drogas-y-espionaje/)  
+7. Nacion, L. A. \[@lanacion\]. (n.d.). ARSAT: corrupción, drogas e inteligencia ¿QUÉ PASÓ? \[Video\]. Youtube. From [https://www.youtube.com/watch?v=3zl-lkFsIRI](https://www.youtube.com/watch?v=3zl-lkFsIRI)
+
+
 
 Contenido
 
